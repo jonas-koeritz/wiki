@@ -22,6 +22,8 @@ The package comes with a heatsink and thermal pad. The thermal pad is covered in
 
 The set comes with a capacitor to decouple the power rail from the rest of your copter. Install it as close to the AIO-PCB as possible.
 
+The board needs a steady power supply of at least **3A at 5V DC**. This figure will be higher if higher RF power levels are selected.
+
 ### Debug/Ethernet
 
 A Ethernet/Debug adapter is included. The flat-flex cable is used to connect it to the AIO-PCB. The connectors pins are located on the PCB side of the connector, pay attention to connect the flat flex cable with the exposed connections towards the PCB. The "handle" strips on the flat-flex cable will point towards the heatsink side on the AIO-PCB and away from the RJ45 connector on the Debugger PCB.
